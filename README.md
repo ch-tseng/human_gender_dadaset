@@ -1,7 +1,7 @@
 # human_sex_dadatset
 
-dataset/: images for male and female \<br>
-weights/: Darknet weights for Densenet201 model \<br>\<br>
+##dataset/: images for male and female
+##weights/: Darknet weights for Densenet201 model
 
 ![image](https://github.com/ch-tseng/human_sex_dadatset/raw/main/demo/b.jpg)
 
